@@ -1,5 +1,5 @@
 ﻿# primeira-pagina-web
-#Objetivo
+# Objetivo
 A proposta desse projeto foi de criar uma página web utilizando as tecnologias HTML e CSS. Teremos apenas uma única página que conterá informações sobre um determinado produto.
 
 Ao criar a página desse projeto, pude colocar em prática os seguintes conceitos:
